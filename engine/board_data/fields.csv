@@ -1,0 +1,41 @@
+id,name,field_type
+0,go,start
+1,mediterranean avenue,property
+2,community chest,community_chest
+3,baltic avenue,property
+4,income tax,income_tax
+5,reading railroad,train
+6,oriental avenue,property
+7,chance,chance
+8,vermont avenue,property
+9,connecticut avenue,property
+10,visiting jail,visit_jail
+11,st. charles place,property
+12,electric company,utility
+13,states avenue,property
+14,virginia avenue,property
+15,pennsylvania railroad,train
+16,st. james place,property
+17,community chest,community_chest
+18,tennessee avenue,property
+19,new york avenue,property
+20,free parking,basic
+21,kentucky avenue,property
+22,chance,chance
+23,indiana avenue,property
+24,illinois avenue,property
+25,b&o railroad,train
+26,atlantic avenue,property
+27,ventnor avenue,property
+28,water works,utility
+29,marvin gardens,property
+30,go to jail,go_to_jail
+31,pacific avenue,property
+32,north carolina avenue,property
+33,community chest,community_chest
+34,pennsylvania avenue,property
+35,short line,train
+36,chance,chance
+37,park place,property
+38,luxury tax,luxury_tax
+39,boardwalk,property
